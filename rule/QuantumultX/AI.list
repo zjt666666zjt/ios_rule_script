@@ -7,62 +7,62 @@
 ########################################
 # Gemini
 ########################################
-DOMAIN,ai.google.dev,Gemini
-DOMAIN,alkalimakersuite-pa.clients6.google.com,Gemini
-DOMAIN,makersuite.google.com,Gemini
-DOMAIN-SUFFIX,bard.google.com,Gemini
-DOMAIN-SUFFIX,deepmind.com,Gemini
-DOMAIN-SUFFIX,deepmind.google,Gemini
-DOMAIN-SUFFIX,gemini.google.com,Gemini
-DOMAIN-SUFFIX,generativeai.google,Gemini
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
-DOMAIN-SUFFIX,apis.google.com,Gemini
-DOMAIN-KEYWORD,colab,Gemini
-DOMAIN-KEYWORD,developerprofiles,Gemini
-DOMAIN-KEYWORD,generativelanguage,Gemini
+DOMAIN,ai.google.dev,AI Platforms
+DOMAIN,alkalimakersuite-pa.clients6.google.com,AI Platforms
+DOMAIN,makersuite.google.com,AI Platforms
+DOMAIN-SUFFIX,bard.google.com,AI Platforms
+DOMAIN-SUFFIX,deepmind.com,AI Platforms
+DOMAIN-SUFFIX,deepmind.google,AI Platforms
+DOMAIN-SUFFIX,gemini.google.com,AI Platforms
+DOMAIN-SUFFIX,generativeai.google,AI Platforms
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI Platforms
+DOMAIN-SUFFIX,apis.google.com,AI Platforms
+DOMAIN-KEYWORD,colab,AI Platforms
+DOMAIN-KEYWORD,developerprofiles,AI Platforms
+DOMAIN-KEYWORD,generativelanguage,AI Platforms
 
 ########################################
 # OpenAI
 ########################################
-HOST,browser-intake-datadoghq.com,OpenAI
-HOST,chat.openai.com.cdn.cloudflare.net,OpenAI
-HOST,openai-api.arkoselabs.com,OpenAI
-HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
-HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI
-HOST,production-openaicom-storage.azureedge.net,OpenAI
-HOST,static.cloudflareinsights.com,OpenAI
-HOST-SUFFIX,ai.com,OpenAI
-HOST-SUFFIX,algolia.net,OpenAI
-HOST-SUFFIX,api.statsig.com,OpenAI
-HOST-SUFFIX,auth0.com,OpenAI
-HOST-SUFFIX,chatgpt.com,OpenAI
-HOST-SUFFIX,chatgpt.livekit.cloud,OpenAI
-HOST-SUFFIX,client-api.arkoselabs.com,OpenAI
-HOST-SUFFIX,events.statsigapi.net,OpenAI
-HOST-SUFFIX,featuregates.org,OpenAI
-HOST-SUFFIX,host.livekit.cloud,OpenAI
-HOST-SUFFIX,identrust.com,OpenAI
-HOST-SUFFIX,intercom.io,OpenAI
-HOST-SUFFIX,intercomcdn.com,OpenAI
-HOST-SUFFIX,launchdarkly.com,OpenAI
-HOST-SUFFIX,oaistatic.com,OpenAI
-HOST-SUFFIX,oaiusercontent.com,OpenAI
-HOST-SUFFIX,observeit.net,OpenAI
-HOST-SUFFIX,openai.com,OpenAI
-HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
-HOST-SUFFIX,openaicom.imgix.net,OpenAI
-HOST-SUFFIX,segment.io,OpenAI
-HOST-SUFFIX,sentry.io,OpenAI
-HOST-SUFFIX,stripe.com,OpenAI
-HOST-SUFFIX,turn.livekit.cloud,OpenAI
-HOST-KEYWORD,openai,OpenAI
-IP-CIDR,24.199.123.28/32,OpenAI
-IP-CIDR,64.23.132.171/32,OpenAI
-IP-ASN,20473,OpenAI
+HOST,browser-intake-datadoghq.com,AI Platforms
+HOST,chat.openai.com.cdn.cloudflare.net,AI Platforms
+HOST,openai-api.arkoselabs.com,AI Platforms
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI Platforms
+HOST,openaicomproductionae4b.blob.core.windows.net,AI Platforms
+HOST,production-openaicom-storage.azureedge.net,AI Platforms
+HOST,static.cloudflareinsights.com,AI Platforms
+HOST-SUFFIX,ai.com,AI Platforms
+HOST-SUFFIX,algolia.net,AI Platforms
+HOST-SUFFIX,api.statsig.com,AI Platforms
+HOST-SUFFIX,auth0.com,AI Platforms
+HOST-SUFFIX,chatgpt.com,AI Platforms
+HOST-SUFFIX,chatgpt.livekit.cloud,AI Platforms
+HOST-SUFFIX,client-api.arkoselabs.com,AI Platforms
+HOST-SUFFIX,events.statsigapi.net,AI Platforms
+HOST-SUFFIX,featuregates.org,AI Platforms
+HOST-SUFFIX,host.livekit.cloud,AI Platforms
+HOST-SUFFIX,identrust.com,AI Platforms
+HOST-SUFFIX,intercom.io,AI Platforms
+HOST-SUFFIX,intercomcdn.com,AI Platforms
+HOST-SUFFIX,launchdarkly.com,AI Platforms
+HOST-SUFFIX,oaistatic.com,AI Platforms
+HOST-SUFFIX,oaiusercontent.com,AI Platforms
+HOST-SUFFIX,observeit.net,AI Platforms
+HOST-SUFFIX,openai.com,AI Platforms
+HOST-SUFFIX,openaiapi-site.azureedge.net,AI Platforms
+HOST-SUFFIX,openaicom.imgix.net,AI Platforms
+HOST-SUFFIX,segment.io,AI Platforms
+HOST-SUFFIX,sentry.io,AI Platforms
+HOST-SUFFIX,stripe.com,AI Platforms
+HOST-SUFFIX,turn.livekit.cloud,AI Platforms
+HOST-KEYWORD,openai,AI Platforms
+IP-CIDR,24.199.123.28/32,AI Platforms
+IP-CIDR,64.23.132.171/32,AI Platforms
+IP-ASN,20473,AI Platforms
 
 ########################################
 # Claude
 ########################################
-HOST,cdn.usefathom.com,Claude
-HOST-SUFFIX,anthropic.com,Claude
-HOST-SUFFIX,claude.ai,Claude
+HOST,cdn.usefathom.com,AI Platforms
+HOST-SUFFIX,anthropic.com,AI Platforms
+HOST-SUFFIX,claude.ai,AI Platforms
