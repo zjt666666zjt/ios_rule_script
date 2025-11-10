@@ -1,12 +1,9 @@
 # NAME: Telegram
-# AUTHOR: zjt666666zjt
-# REPO: https://github.com/zjt666666zjt/ios_rule_script
 # UPDATED: 2025-11-10
 
 # > Telegram Domains
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
-
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,contest.com
