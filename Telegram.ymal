@@ -1,6 +1,5 @@
 # NAME: Telegram
 # AUTHOR: man
-
 payload:
   # > Telegram Domains
   - DOMAIN,api.imem.app
