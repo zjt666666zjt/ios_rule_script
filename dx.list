@@ -1,25 +1,20 @@
-# NAME: DouYin & XiaoHongShu
-# AUTHOR: Cai Xukun (merged)
-# UPDATED: 2025-11-11
-# TOTAL: 17
+# DouYin
+HOST,lf3-static.bytednsdoc.com
+HOST,v5-dy-o-abtest.zjcdn.com
+HOST-SUFFIX,amemv.com
+HOST-SUFFIX,douyincdn.com
+HOST-SUFFIX,douyinpic.com
+HOST-SUFFIX,douyinstatic.com
+HOST-SUFFIX,douyinvod.com
+HOST-SUFFIX,idouyinvod.com
+HOST-SUFFIX,ixigua.com
+HOST-SUFFIX,ixiguavideo.com
+HOST-SUFFIX,pstatp.com
+HOST-SUFFIX,snssdk.com
+HOST-SUFFIX,toutiao.com
 
-# === DouYin ===
-HOST,lf3-static.bytednsdoc.com,DouYin
-HOST,v5-dy-o-abtest.zjcdn.com,DouYin
-HOST-SUFFIX,amemv.com,DouYin
-HOST-SUFFIX,douyincdn.com,DouYin
-HOST-SUFFIX,douyinpic.com,DouYin
-HOST-SUFFIX,douyinstatic.com,DouYin
-HOST-SUFFIX,douyinvod.com,DouYin
-HOST-SUFFIX,idouyinvod.com,DouYin
-HOST-SUFFIX,ixigua.com,DouYin
-HOST-SUFFIX,ixiguavideo.com,DouYin
-HOST-SUFFIX,pstatp.com,DouYin
-HOST-SUFFIX,snssdk.com,DouYin
-HOST-SUFFIX,toutiao.com,DouYin
-
-# === XiaoHongShu ===
-DOMAIN-SUFFIX,fengkongcloud.com,XiaoHongShu
-DOMAIN-SUFFIX,xhscdn.com,XiaoHongShu
-DOMAIN-SUFFIX,xhscdn.net,XiaoHongShu
-DOMAIN-SUFFIX,xiaohongshu.com,XiaoHongShu
+# XiaoHongShu
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
